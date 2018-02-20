@@ -14,6 +14,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'imaginaerum_fr_ch',
+    'diglin_fr_ch',
     __DIR__
 );
