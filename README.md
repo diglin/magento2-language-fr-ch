@@ -1,6 +1,6 @@
-# Magento 2 French Language Pack v100.6.23
+# Magento 2 Swiss French Language Pack v100.6.23.1
 
-French translation for Magento 2. Translation fr_CH (Suisse Switzerland Schweiz) based on the fr_FR package 
+French translation for Magento 2. Translation fr_CH (Suisse Switzerland Schweiz) based on the fr_FR package of [imaginaerum](http://imaginaerum.github.io/magento2-language-fr-fr)
 
 Traduction de Magento 2 en Français.
 
@@ -27,7 +27,7 @@ See documentation: http://imaginaerum.github.io/magento2-language-fr-fr
 ## Links
 
 * Website: http://imaginaerum.github.io/magento2-language-fr-fr
-* Packagist: https://packagist.org/packages/imaginaerum/magento2-language-fr-fr
+* Packagist: https://packagist.org/packages/diglin/magento2-language-fr-ch
 
 ## Contributors
 
