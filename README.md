@@ -1,12 +1,12 @@
 # Magento 2 French Language Pack v100.6.23
 
-French translation for Magento 2. Translation fr_FR (French France).
+French translation for Magento 2. Translation fr_CH (Suisse Switzerland Schweiz) based on the fr_FR package 
 
 Traduction de Magento 2 en Français.
 
 See documentation: http://imaginaerum.github.io/magento2-language-fr-fr
 
-## Donation
+## Donation to original author `imaginaerum`
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UPTWGP9FGJ6EC)
 
@@ -34,6 +34,7 @@ See documentation: http://imaginaerum.github.io/magento2-language-fr-fr
 * [Louis Samson](https://github.com/Losams "Louis Samson")
 * Astrid Bureau
 * [Antoine Lemoine (Owebia)](http://www.owebia.com/ "Antoine Lemoine (Owebia)")
+* [Sylvain Rayé (diglin)](https://www.diglin.com) for the fr_CH
 
 ## Installation
 
@@ -41,7 +42,7 @@ See documentation: http://imaginaerum.github.io/magento2-language-fr-fr
 
 ```
 cd <your magento path>
-composer require imaginaerum/magento2-language-fr-fr:*
+composer require diglin/magento2-language-fr-ch:*
 php bin/magento cache:clean
 ```
 
@@ -49,17 +50,17 @@ To update package
 
 ```
 cd <your magento path>
-composer update imaginaerum/magento2-language-fr-fr
+composer update diglin/magento2-language-fr-ch
 php bin/magento cache:clean
 ```
 
 ### Download repository method
 
-Download file: https://github.com/Imaginaerum/magento2-language-fr-fr/archive/master.zip
+Download file: https://github.com/diglin/magento2-language-fr-ch/archive/master.zip
 
-Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into path.
+Create folder your-magento-path/app/i18n/imaginaerum/fr_ch and extract zip into path.
 
-## Progression
+## Progression (fr_FR version)
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |

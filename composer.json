@@ -1,6 +1,6 @@
 {
-    "name": "imaginaerum/magento2-language-fr-fr",
-    "description": "Magento2 French Language Pack (fr_FR)",
+    "name": "diglin/magento2-language-fr-ch",
+    "description": "Magento2 French Language Pack (fr_CH) / based on https://github.com/Imaginaerum/magento2-language-fr-fr",
     "version": "100.6.23",
     "type": "magento2-language",
     "homepage": "http://imaginaerum.github.io/magento2-language-fr-fr",
@@ -12,14 +12,16 @@
         "module",
         "french",
         "language pack",
-        "fr_FR",
+        "fr_CH",
         "i18n",
         "fr"
     ],
     "license": [
         "MIT"
     ],
-    "require": {},
+    "require": {
+        "imaginaerum/magento2-language-fr-fr":"100.6.23"
+    },
     "autoload": {
         "files": [
             "registration.php"
